@@ -1,5 +1,3 @@
-require 'pry'
-
 class Luhn
   attr_accessor :num
 
